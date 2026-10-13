@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Datenbank
+*.db
+sync_history.db
+
+# Lokale Konfiguration
+config.json
+.env
+
+# Downloads
+downloads/
+
+# Editor
+.vscode/
+.idea/
